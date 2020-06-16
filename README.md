@@ -7,5 +7,5 @@ You may re-use it.
 Improvement and modification are welcome.
 
 ## Index
-- `flutter_btmnavbar` , written in Flutter
+- `flutter_btmnavbar` , A Flutter App with Bottom Navigation Bar, written in Flutter
 - to be updated soon
