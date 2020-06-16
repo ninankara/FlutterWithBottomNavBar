@@ -11,3 +11,6 @@ The interface contains material elements, such as:
 - `git clone` the project from your IDE(I am using VSCode)
 - Create simulator, or plug your real device
 - Run -> Start Debugging
+
+## Preview
+[preview](https://i.imgur.com/YjZ9GaS.jpg)
